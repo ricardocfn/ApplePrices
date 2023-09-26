@@ -1,0 +1,10 @@
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Debug\ApplePrices.exe.config
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Debug\ApplePrices.exe
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Debug\ApplePrices.pdb
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.csproj.AssemblyReference.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.Form1.resources
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.Properties.Resources.resources
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.csproj.GenerateResource.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.csproj.CoreCompileInputs.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.exe
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Debug\ApplePrices.pdb

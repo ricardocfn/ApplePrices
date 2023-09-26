@@ -1,0 +1,14 @@
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Release\ApplePrices.exe.config
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Release\ApplePrices.exe
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Release\ApplePrices.pdb
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.csproj.AssemblyReference.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.Form1.resources
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.Properties.Resources.resources
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.csproj.GenerateResource.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.csproj.CoreCompileInputs.cache
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.exe
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.pdb
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Release\ApplePrices.exe.manifest
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\bin\Release\ApplePrices.application
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.exe.manifest
+C:\Users\daila\OneDrive\Área de Trabalho\C#\ApplePrices\ApplePrices\obj\Release\ApplePrices.application
